@@ -3,69 +3,70 @@
     "id": "5f58bf62c0bb4c001b62a72d",
     "type": "BLANK",
     "question": "3/5 Jika diubah ke bentuk persen ...",
-    "answer": "60%"
+    "answer": "60%",
+    "options": ["60%"]
   },
   {
     "id": "5f26ef51dadfc4001bc81920",
     "type": "MCQ",
     "question": "Bilangan persen disebut juga bilangan pecahan ....",
-    "options": ["per satuan", "per sepuluh", "per seratus", "per seribu"],
-    "answer": "per seratus"
+    "answer": "per seratus",
+    "options": ["per satuan", "per sepuluh", "per seratus", "per seribu"]
   },
   {
     "id": "5f58c07cb910a6001b322c12",
     "type": "MCQ",
     "question": "3/4 Jika diubah ke bentuk persen ...",
-    "options": ["3%", "4 %", "34 %", "75 %"],
-    "answer": "75 %"
+    "answer": "75 %",
+    "options": ["3%", "4 %", "34 %", "75 %"]
   },
   {
     "id": "5f58c0b059edd8001b9ce132",
     "type": "MCQ",
     "question": "3/20 Bentuk persennya adalah ...",
-    "options": ["3 %", "20 %", "15 %", "6 %"],
-    "answer": "15 %"
+    "answer": "15 %",
+    "options": ["3 %", "20 %", "15 %", "6 %"]
   },
   {
     "id": "5d64834766cf5b001a075aac",
     "type": "MCQ",
     "question": "2/5 jika dijadikan persen menjadi",
-    "options": ["40 %", "20%", "30%", "50%"],
-    "answer": "40 %"
+    "answer": "40 %",
+    "options": ["40 %", "20%", "30%", "50%"]
   },
   {
     "id": "5f58c0f687e7ac001b908f41",
     "type": "MCQ",
     "question": "Bentuk persen dari 6/10 adalah ...",
-    "options": ["6 %", "60 %", "30 %", "50 %"],
-    "answer": "60 %"
+    "answer": "60 %",
+    "options": ["6 %", "60 %", "30 %", "50 %"]
   },
   {
     "id": "5d9aeb2d632002001cced084",
     "type": "MCQ",
     "question": "Pecahan 1/2 jika diubah menjadi persen adalah ... %",
-    "options": ["20", "50", "25", "75"],
-    "answer": "50"
+    "answer": "50",
+    "options": ["20", "50", "25", "75"]
   },
   {
     "id": "5d9aeb566e8189001a99848d",
     "type": "MCQ",
     "question": "Pecahan 1/3 jika diubah menjadi persen adalah ... %",
-    "options": ["33", "50", "75", "67"],
-    "answer": "33"
+    "answer": "33",
+    "options": ["33", "50", "75", "67"]
   },
   {
     "id": "5d9aeb750a758e001aa5ae79",
     "type": "MCQ",
     "question": "Pecahan 2/3 jika diubah menjadi persen adalah ... %",
-    "options": ["33", "50", "75", "67"],
-    "answer": "67"
+    "answer": "67",
+    "options": ["33", "50", "75", "67"]
   },
   {
     "id": "5f58c21ca14550001c8adf40",
     "type": "MCQ",
     "question": "Bentuk persen dari 8/50 adalah ...",
-    "options": ["16 %", "20 %", "36 %", "40 %"],
-    "answer": "16 %"
+    "answer": "16 %",
+    "options": ["16 %", "20 %", "36 %", "40 %"]
   }
 ]
